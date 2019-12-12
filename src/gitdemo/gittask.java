@@ -7,6 +7,10 @@ public class gittask {
 		System.out.println(i);
 		boolean b = s.startsWith("india");
 		System.out.println(b);
+		boolean b2 = s.endsWith("star");
+		System.out.println(b2);
+		int j = s.indexOf('d');
+		System.out.println(j);
 		
 		
 		
